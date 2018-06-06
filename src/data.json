@@ -1,0 +1,19 @@
+{
+    "screenshots": [
+        {
+            "img": "assets/images/kitten1.jpg",
+            "description": "Lorem 1 ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusm....",
+            "liked": "0"
+        },
+        {
+            "img": "assets/images/kitten2.jpg",
+            "description": "Lorem 2 ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusm....",
+            "liked": "0"
+        },
+        {
+            "img": "assets/images/kitten3.jpg",
+            "description": "Lorem 3 ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusm....",
+            "liked": "0"
+        }
+    ]
+}
